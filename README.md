@@ -10,5 +10,4 @@ Playable with Oculus Quest - Open "Haptic" Scene in Unity
 2. To start bug smashing demo, press 'oculus button' of left hand and the bugs will appear 
 on the table. (I added popping motion when bugs collide with themselves)
 
-
-
+To watch how it works, go to my project web, "https://www.notion.so/purdueseungwon/Seung-Won-Kim-s-Works-42199ff8965741f19480821a4cd61d23", and check "VR Bug Smashing Game" section
